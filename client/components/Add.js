@@ -125,6 +125,8 @@ render() {
             <option value="2018" id="18">2018</option>
             <option value="2019" id="19">2019</option>
             <option value="2020" id="20">2020</option>
+            <option value="2021" id="21">2021</option>
+            <option value="2022" id="22">2022</option>
          </select>
       </fieldset>
 <div className='button-center'>
